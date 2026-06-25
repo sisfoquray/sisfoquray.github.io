@@ -8,8 +8,8 @@
 const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbz7XPVzzhyszTiBiLp30Wb_BmFqzrlxWrFIHLjeHsoE4YKll6pv2BnTR1MY5ONIduhi/exec";
 
 // Konfigurasi Cloudinary API
-const CLOUDINARY_URL = "https://api.cloudinary.com/v1_1/deva5eknr/image/upload";
-const CLOUDINARY_UPLOAD_PRESET = "markaz";
+const CLOUDINARY_URL = "https://api.cloudinary.com/v1_1/dng1pmjon/image/upload";
+const CLOUDINARY_UPLOAD_PRESET = "ppdb_preset";
 
 // Variabel Global
 let compressedImageBlob = null;
