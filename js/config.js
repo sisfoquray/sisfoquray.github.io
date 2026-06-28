@@ -5,7 +5,7 @@
 
 
 // URL Backend Google Apps Script (Wajib disesuaikan)
-const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbz7XPVzzhyszTiBiLp30Wb_BmFqzrlxWrFIHLjeHsoE4YKll6pv2BnTR1MY5ONIduhi/exec";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyW6ttveR5swCoSloup8sdXWSbXBh7t78MBdlZihHWOvoGZcGAeNOHSURuLBTY3nTycNA/exec";
 
 // Konfigurasi Cloudinary API
 const CLOUDINARY_URL = "https://api.cloudinary.com/v1_1/dng1pmjon/image/upload";
